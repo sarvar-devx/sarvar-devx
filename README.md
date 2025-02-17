@@ -57,7 +57,9 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sarvar-devx&theme=radical">
 </p>
+
 ## 👁️ Number of visits:
+
 <p align="center">
    <img src="https://profile-counter.glitch.me/{sarvar-devx}/count.svg"/>
 </p>
