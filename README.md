@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvar-devx&label=Profile%20views&color=0e75b6&style=flat" alt="sarvar-devx" /> </p>
 
 [//]: # (- 🔭 I’m currently learning on DRF &#40;API&#41;)
+[//]: # (<img src="https://github-widgetbox.vercel.app/api/profile?username=sarvar-devx&data=followers,repositories,stars,commits&theme=dark"/> <br>)
 
 - 💻 I can do Telegram bots, Django, DRF
 
@@ -45,8 +46,6 @@
 <a href="https://leetcode.com/u/sarvar_devx/">![Leetcode Stats](https://leetcard.jacoblin.cool/sarvar_devx?theme=dark)</a>
 
 </br><h1 tabindex="-1" align="left">📊 GitHub Stats:</h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvar-devx&show_icons=true&locale=en&layout=compact" alt="sarvar-devx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvar-devx&show_icons=true&locale=en" alt="sarvar-devx" /></p>
 
