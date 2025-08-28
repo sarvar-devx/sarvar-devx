@@ -92,12 +92,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvar-devx&show_icons=true&show=prs_merged&theme=github_dark" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-devx&theme=github_dark" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvar-devx&show_icons=true&show=prs_merged&theme=github_dark" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-devx&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-devx&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-devx&theme=github_dark" alt="GitHub Streak" height="170"/>
 </p>
 
 ---
