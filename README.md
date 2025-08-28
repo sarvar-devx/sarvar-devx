@@ -1,7 +1,8 @@
 [![MasterHead](https://og-websitev3-dep.s3.amazonaws.com/media/original_images/ml_python_Hz38IHf.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sarvarbek Davranbekov</h1>
-<h3 align="center">Python Backend Developer from Kazakhstan</h3>
+<h3 align="center">Python Backend Developer from Kazakhstan <br><br> | Python + Django + FastAPI | </h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" alt="Open to Work" height="28"/>
