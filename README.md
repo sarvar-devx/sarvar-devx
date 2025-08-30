@@ -101,6 +101,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-devx&theme=github_dark" alt="GitHub Streak" height="185"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarvar-devx&theme=juicyfresh" alt="GitHub Profile Trophy for sarvar-devx">
+</p>
+
+
+---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/sarvar_devx/">
+    <img src="https://leetcard.jacoblin.cool/sarvar_devx?theme=chartreuse" alt="LeetCode Stats for sarvar_devx"/>
+  </a>
+</p>
+
+
 ---
 
 ## 📈 GitHub Widgets
