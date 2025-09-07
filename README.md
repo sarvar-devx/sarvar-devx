@@ -1,4 +1,4 @@
-[![MasterHead](https://og-websitev3-dep.s3.amazonaws.com/media/original_images/ml_python_Hz38IHf.gif)](https://rishavchanda.io)
+![MasterHead](https://og-websitev3-dep.s3.amazonaws.com/media/original_images/ml_python_Hz38IHf.gif)
 
 <h1 align="center">Hi 👋, I'm Sarvarbek Davranbekov</h1>
 <h3 align="center">🚀 Python Backend Developer from Kazakhstan <br><br> | Python + Django + FastAPI | </h3>
